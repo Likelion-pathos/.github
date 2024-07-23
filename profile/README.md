@@ -1,4 +1,5 @@
-### 안녕하세요👋
+<div style="text-align: center;">
+<h2> 안녕하세요👋</h2>
 Pathos팀 2024-중앙해커톤 깃허브에 방문해주셔서 감사합니다!
 
 ## 🔨 Skill 🔨
@@ -7,6 +8,7 @@ Pathos팀 2024-중앙해커톤 깃허브에 방문해주셔서 감사합니다!
   |:-------------:|:-------------:|:-------------:|
   |<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">|<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">|<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">|
 
+</div>
 <!--
 
 **Here are some ideas to get you started:**
