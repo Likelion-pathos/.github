@@ -2,8 +2,8 @@
 Pathos팀 2024-중앙해커톤 깃허브에 방문해주셔서 감사합니다!
 
 <h2>🔨 Skill 🔨</h2>
-<b>기획/디자인:  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"></b> 
-<b>프론트엔드:  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"></b> 
+<b>기획/디자인:  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"></b><br>
+<b>프론트엔드:  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"></b><br>
 <b>백엔드:  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"></b> 
 
 <!--
