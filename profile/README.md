@@ -1,6 +1,8 @@
 ### 안녕하세요👋
 Pathos팀 2024-중앙해커톤 깃허브에 방문해주셔서 감사합니다!
 
+<h3 align="center">🔨 Skill 🔨</h3>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 <!--
 
 **Here are some ideas to get you started:**
