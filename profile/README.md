@@ -21,11 +21,18 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/CHOjeongin"><img width="80%" src="https://github.com/user-attachments/assets/11c532a4-ea9a-4f1a-9049-db21bc8a0b3f"/></a><br /><sub><b>PM | 기획/디자인 : 조정인</b></sub><br /></td>
-      <td align="center"><a href="https://github.com/jiyeoneeeeeeee"><img width="80%" src="https://github.com/user-attachments/assets/023c2d0f-0489-4593-8aa1-04c98e0c1ffd"/></a><br /><sub><b>FE | 프론트엔드 : 남지연</b></sub><br /></td>
-      <td align="center"><a href="https://github.com/dauhny"><img width="80%" src="https://github.com/user-attachments/assets/6dd68578-d786-4650-adf3-c3b9cd88364f"/></a><br /><sub><b>FE | 프론트엔드 : 유다현</b></sub><br /></td>
-      <td align="center"><a href="https://github.com/Kimgah"><img width="80%" src="https://github.com/user-attachments/assets/b1b57b8a-8b0b-4b5c-aaba-9b6e81508cb7"/><br /><sub><b>BE | 백엔드 : 김가현</b></sub></a><br /></td>
-       <td align="center"><a href="https://github.com/hyjang14"><img width="80%" src="https://github.com/user-attachments/assets/80d2cc92-c0fa-4324-86a9-3068bbc013d4"/>|<br /><sub><b>BE | 백엔드 : 장하연</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/CHOjeongin"><img width="80%" src="https://github.com/user-attachments/assets/11c532a4-ea9a-4f1a-9049-db21bc8a0b3f"/></a><br /><br /></td>
+      <td align="center"><a href="https://github.com/jiyeoneeeeeeee"><img width="80%" src="https://github.com/user-attachments/assets/023c2d0f-0489-4593-8aa1-04c98e0c1ffd"/></a><br /><br /></td>
+      <td align="center"><a href="https://github.com/dauhny"><img width="80%" src="https://github.com/user-attachments/assets/6dd68578-d786-4650-adf3-c3b9cd88364f"/></a><br /><br /></td>
+      <td align="center"><a href="https://github.com/Kimgah"><img width="80%" src="https://github.com/user-attachments/assets/b1b57b8a-8b0b-4b5c-aaba-9b6e81508cb7"/></a><br /><br /></td>
+       <td align="center"><a href="https://github.com/hyjang14"><img width="80%" src="https://github.com/user-attachments/assets/80d2cc92-c0fa-4324-86a9-3068bbc013d4"/></a><br /><br /></td>
+     <tr/>
+     <tr>
+      <td align="center"><b>PM | 조정인</b></td>
+      <td align="center"><b>FE | 남지연</b></td>
+      <td align="center"><b>FE | 유다현</b></td>
+      <td align="center"><b>BE | 김가현</b></td>
+      <td align="center"><b>BE | 장하연</b></td>
      <tr/>
   </tbody>
 </table>
