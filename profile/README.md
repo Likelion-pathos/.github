@@ -18,7 +18,7 @@
   |<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">|<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">|<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">|
 
 ## 🔨 팀원 깃허브 소개 🔨
-* 이미지를 누르면 깃허브 프로필로 이동합니다. *
+ * 이미지를 누르면 깃허브 프로필로 이동합니다. *
 <table>
   <tbody>
     <tr>
