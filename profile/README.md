@@ -22,27 +22,10 @@
 
  |<a href="https://github.com/CHOjeongin"><img width="100%" src="https://github.com/user-attachments/assets/11c532a4-ea9a-4f1a-9049-db21bc8a0b3f"/></a>|<a href="https://github.com/jiyeoneeeeeeee"><img width="100%" src="https://github.com/user-attachments/assets/023c2d0f-0489-4593-8aa1-04c98e0c1ffd"/></a>|<a href="https://github.com/dauhny"><img width="100%" src="https://github.com/user-attachments/assets/6dd68578-d786-4650-adf3-c3b9cd88364f"/></a>|<a href="https://github.com/Kimgah"><img width="100%" src="https://github.com/user-attachments/assets/b1b57b8a-8b0b-4b5c-aaba-9b6e81508cb7"/></a>|<a href="https://github.com/hyjang14"><img width="100%" src="https://github.com/user-attachments/assets/80d2cc92-c0fa-4324-86a9-3068bbc013d4"/></a>|
  |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
- |<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">|<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">|<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">| | |
+ |<b>PM : 조정인</b>|<b>FE : 남지연</b>|<b>FE : 유다현</b>|<b>BE : 김가현</b>|<b>BE : 장하연</b>|
 
  
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><a href="https://github.com/CHOjeongin"><img width="100%" src="https://github.com/user-attachments/assets/11c532a4-ea9a-4f1a-9049-db21bc8a0b3f"/></a><br /><br /></td>
-      <td align="center"><a href="https://github.com/jiyeoneeeeeeee"><img width="100%" src="https://github.com/user-attachments/assets/023c2d0f-0489-4593-8aa1-04c98e0c1ffd"/></a><br /><br /></td>
-      <td align="center"><a href="https://github.com/dauhny"><img width="100%" src="https://github.com/user-attachments/assets/6dd68578-d786-4650-adf3-c3b9cd88364f"/></a><br /><br /></td>
-      <td align="center"><a href="https://github.com/Kimgah"><img width="100%" src="https://github.com/user-attachments/assets/b1b57b8a-8b0b-4b5c-aaba-9b6e81508cb7"/></a><br /><br /></td>
-       <td align="center"><a href="https://github.com/hyjang14"><img width="100%" src="https://github.com/user-attachments/assets/80d2cc92-c0fa-4324-86a9-3068bbc013d4"/></a><br /><br /></td>
-     <tr/>
-     <tr>
-      <td align="center"><b>PM : 조정인</b></td>
-      <td align="center"><b>FE : 남지연</b></td>
-      <td align="center"><b>FE : 유다현</b></td>
-      <td align="center"><b>BE : 김가현</b></td>
-      <td align="center"><b>BE : 장하연</b></td>
-     <tr/>
-  </tbody>
-</table>
+
 </div>
 <!--
 
