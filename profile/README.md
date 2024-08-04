@@ -21,9 +21,9 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/CHOjeongin"><img width="80%" src="https://github.com/user-attachments/assets/11c532a4-ea9a-4f1a-9049-db21bc8a0b3f"/><br /><sub><b>PM 기획/디자인 : 조정인</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/CHOjeongin"><img width="80%" src="https://github.com/user-attachments/assets/11c532a4-ea9a-4f1a-9049-db21bc8a0b3f"/><br /><sub><b>PM | 기획/디자인 : 조정인</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/jiyeoneeeeeeee"><img width="80%" src="https://github.com/user-attachments/assets/023c2d0f-0489-4593-8aa1-04c98e0c1ffd"/><br /><sub><b>FE | 프론트엔드 : 남지연</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/dauhny"><img width="80%" src="https://github.com/user-attachments/assets/6dd68578-d786-4650-adf3-c3b9cd88364f"/><br /><sub><b>FE | 프론트엔드 : 유다</b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
      <tr/>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>BE 부팀장 : </b></sub></a><br /></td>
