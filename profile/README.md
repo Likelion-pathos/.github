@@ -21,7 +21,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/CHOjeongin"><img src="width="100px;" alt=""/><br /><sub><b>PM 기획/디자인 : 조정인</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/CHOjeongin"><img width="80%" src="https://github.com/user-attachments/assets/11c532a4-ea9a-4f1a-9049-db21bc8a0b3f"/><br /><sub><b>PM 기획/디자인 : 조정인</b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>FE 팀원 : </b></sub></a><br /></td>
