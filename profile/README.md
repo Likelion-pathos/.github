@@ -24,7 +24,7 @@
 
  |<a href="https://github.com/CHOjeongin"><img width="100%" src="https://github.com/user-attachments/assets/11c532a4-ea9a-4f1a-9049-db21bc8a0b3f"/></a>|<a href="https://github.com/jiyeoneeeeeeee"><img width="100%" src="https://github.com/user-attachments/assets/023c2d0f-0489-4593-8aa1-04c98e0c1ffd"/></a>|<a href="https://github.com/dauhny"><img width="100%" src="https://github.com/user-attachments/assets/6dd68578-d786-4650-adf3-c3b9cd88364f"/></a>|<a href="https://github.com/Kimgah"><img width="100%" src="https://github.com/user-attachments/assets/b1b57b8a-8b0b-4b5c-aaba-9b6e81508cb7"/></a>|<a href="https://github.com/hyjang14"><img width="100%" src="https://github.com/user-attachments/assets/80d2cc92-c0fa-4324-86a9-3068bbc013d4"/></a>|
  |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
- |<b>PM : 조정인</b>|<b>FE : 남지연</b>|<b>FE : 유다현</b>|<b>BE : 김가현</b>|<b>BE : 장하연</b>|
+ |<b>PD : 조정인</b>|<b>FE : 남지연</b>|<b>FE : 유다현</b>|<b>BE : 김가현</b>|<b>BE : 장하연</b>|
 
  
 
